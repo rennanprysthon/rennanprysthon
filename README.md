@@ -1,6 +1,4 @@
-<img src="https://github.com/RennanPrysthon/teste-readme/blob/master/images/gifdino.gif">
-
-![Alt Text](https://github.com/rennanprysthon/teste-readme/raw/master/images/gifdino.gif)
+![Alt Text](https://github.com/rennanprysthon/rennanprysthon/raw/master/images/gifdino.gif)
 
 <h2> Hey, i'm Rennan Prysthon! 👋</h2>
 
