@@ -2,7 +2,7 @@
 
 <h2> Hey, i'm Rennan Prysthon! 👋</h2>
 
-I'm software developer, currently working at IVIA.
+I'm software developer, currently working at MV Sistemas.
 
 You can find me on:
 
