@@ -11,8 +11,9 @@ You can find me on:
 ## :computer: Programming Languages
 * React Native
 * React
-* Spring Boot
+* Spring Boot / Java EE
 * Angular
+* PL/SQL
 
 
 ## 🔧 Technologies & Tools
@@ -42,9 +43,14 @@ You can find me on:
   </thead>
   <tbody>
     <tr>
+      <td><b>MV Sistemas</b></td>
+      <td>Development with Spring MVC, Maven, Angular, Oracle PL/SQL</td>
+      <td>Setember 2019 - Present</td>
+    </tr>
+    <tr>
       <td><b>Developer (IVIA)</b></td>
       <td>Development with Java, JSP, Maven, Jenkins</td>
-      <td>November 2019 - Present</td>
+      <td>November 2019 - August 2020</td>
     </tr>
   </tbody>
 </table>
