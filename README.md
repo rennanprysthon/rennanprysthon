@@ -45,7 +45,7 @@ You can find me on:
     <tr>
       <td><b>MV Sistemas</b></td>
       <td>Development with Spring MVC, Maven, Angular, Oracle PL/SQL</td>
-      <td>Setember 2019 - Present</td>
+      <td>Setember 2020 - Present</td>
     </tr>
     <tr>
       <td><b>Developer (IVIA)</b></td>
