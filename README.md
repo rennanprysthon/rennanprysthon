@@ -11,9 +11,10 @@ You can find me on:
 ## :computer: Programming Languages
 * React Native
 * React
+* Nextjs
 * Spring Boot / Java EE
 * Angular
-* PL/SQL
+* Oracle PL/SQL, Postgres
 
 
 ## 🔧 Technologies & Tools
@@ -44,7 +45,7 @@ You can find me on:
   <tbody>
     <tr>
       <td><b>MV Sistemas</b></td>
-      <td>Development with Spring MVC, Maven, Angular, Oracle PL/SQL</td>
+      <td>Development with Spring Boot, Maven, AngularJS, Oracle PL/SQL</td>
       <td>Setember 2020 - Present</td>
     </tr>
     <tr>
