@@ -11,11 +11,12 @@ You can find me on:
 ## :computer: Programming Languages
 * React Native
 * React
-* Nextjs
-* Spring Boot / Java EE
-* Angular
+* NextJS
+* Java 8/11
+* Spring Boot
+* Angular 8+
 * Oracle PL/SQL, Postgres
-
+* TDD (JUnit5, Selenium)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Backend-SpringBoot-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -33,7 +34,7 @@ You can find me on:
 
 
 <details open>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary><b> Work Experience :point_right: </b></summary>
 <table>
   <thead>
     <tr>
@@ -45,7 +46,7 @@ You can find me on:
   <tbody>
     <tr>
       <td><b>MV Sistemas</b></td>
-      <td>Development with Spring Boot, Maven, AngularJS, Oracle PL/SQL</td>
+      <td>Development with Spring Boot, Maven, AngularJS, Oracle PL/SQL, JSP, JSTL</td>
       <td>Setember 2020 - Present</td>
     </tr>
     <tr>
@@ -58,7 +59,7 @@ You can find me on:
 </details>
 
 <details open>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b> Projects :point_right:</b></summary>
 <table>
   <thead>
     <tr>
