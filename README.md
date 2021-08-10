@@ -35,13 +35,18 @@ You can find me on:
   </thead>
   <tbody>
     <tr>
-      <td><b>MV Sistemas</b></td>
-      <td>Development with Java, Spring Boot, Maven, AngularJS, Oracle PL/SQL, JSP, JSTL</td>
-      <td>Setember 2020 - Present</td>
+      <td><b>Software Engineer at Liferay</b></td>
+      <td>Development with Java, OSGi, Angular and React</td>
+      <td>July 2021 - Present</td>
     </tr>
     <tr>
-      <td><b>Developer (IVIA)</b></td>
-      <td>Development with Java, JSP, Maven, Jenkins</td>
+      <td><b>Developer III at MV Sistemas</b></td>
+      <td>Development with Java, Spring Boot, Maven, AngularJS, Oracle PL/SQL, JSP and JSTL</td>
+      <td>Setember 2020 - June 2021</td>
+    </tr>
+    <tr>
+      <td><b>Developer at IVIA</b></td>
+      <td>Development with Java, JSP, Maven and Jenkins</td>
       <td>November 2019 - August 2020</td>
     </tr>
   </tbody>
