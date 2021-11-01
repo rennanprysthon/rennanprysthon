@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Editor-Intelli-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
  
 
-I'm fullstack developer, currently working at MV Sistemas.
+I'm fullstack developer, currently working at Liferay.
 
 You can find me on:
 
