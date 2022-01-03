@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/rennanprysthon/rennanprysthon/raw/master/images/gifdino.gif)
 
-<h2> Hey, i'm Rennan Prysthon! :vulcan_salute:</h2>
+<h2> Hey, I'm Rennan Prysthon! :vulcan_salute:</h2>
 
 ![](https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -22,6 +22,7 @@ You can find me on:
 * Angular 11+
 * Oracle PL/SQL, Postgres
 * TDD (JUnit5, Selenium, Cucumber)
+* Sass
 
 <details open>
 <summary><b> Work Experience :point_right: </b></summary>
@@ -36,7 +37,7 @@ You can find me on:
   <tbody>
     <tr>
       <td><b>Software Engineer at Liferay</b></td>
-      <td>Development with Java, OSGi, Angular and React</td>
+      <td>Development with Java, OSGi and React</td>
       <td>July 2021 - Present</td>
     </tr>
     <tr>
