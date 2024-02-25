@@ -36,9 +36,14 @@ You can find me on:
   </thead>
   <tbody>
     <tr>
+      <td><b>Software Engineer at Bradesco</b></td>
+      <td>Development with Java, Spring and Azure</td>
+      <td>December 2023 - Present</td>
+    </tr>
+    <tr>
       <td><b>Software Engineer at Liferay</b></td>
       <td>Development with Java, OSGi and React</td>
-      <td>July 2021 - Present</td>
+      <td>July 2021 - November 2023</td>
     </tr>
     <tr>
       <td><b>Developer III at MV Sistemas</b></td>
