@@ -3,7 +3,7 @@
 <h2> Hey, I'm Rennan Prysthon! :vulcan_salute:</h2>
 
 ![](https://img.shields.io/badge/OS-Pop_OS-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vim-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Intelli-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
  
 
